@@ -1,9 +1,0 @@
-decorator/document/DummyDocument.class
-decorator/document/TimedDocument.class
-decorator/document/Document.class
-decorator/item/BasicItem.class
-decorator/item/Item.class
-decorator/document/SmartDocument.class
-decorator/document/AbstractDocumentDecorator.class
-decorator/document/CachedDocument.class
-decorator/item/AbstractItemDecorator.class
